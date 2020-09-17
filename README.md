@@ -20,11 +20,4 @@ The Scream triology, Buffy the Vampire Slayer, and 90's r&b.
 
 # Portfolio
 
-## OECD Data Viz
-
-<div>
-  <img src="https://data.oecd.org/chart/65K1">
-    <a href="https://data.oecd.org/chart/65K1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2010</a>
-  </img>
-</div>
 

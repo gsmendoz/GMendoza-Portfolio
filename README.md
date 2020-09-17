@@ -29,3 +29,9 @@ The Scream triology, Buffy the Vampire Slayer, and 90's r&b.
 Government Debt-to-Ratio visual from the OECD. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3759074" data-url="https://flo.uri.sh/visualisation/3759074/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Data Viz 3
+
+Played with some colors!
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3759286" data-url="https://flo.uri.sh/visualisation/3759286/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>

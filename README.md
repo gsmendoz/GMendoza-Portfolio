@@ -44,7 +44,7 @@ Due to the nature of having several small charts on the screen all at once, I kn
 
 During my initial observation of the original visualization, my thoughts were that while the information told a very straight-forward story, other relevant elements in the industry could have been woven in to tell a more compelling one. While the original graphic did present what the title denoted: annual ticket sales over the course of twenty-five years, I would have liked more contextual pieces - and these elements became the building blocks for my redesign. 
 
-[Source] (https://www.the-numbers.com/market/)
+[Source](https://www.the-numbers.com/market/)
 
 ###### Process
 

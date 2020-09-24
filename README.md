@@ -52,6 +52,8 @@ As mentioned above, I was initially focused on having the target audience at lea
 
 As mentioned in Good Charts, “we see first what stands out” (p. 48) and so, I attempted to bring more attention to the dip on the right side of the chart without the inclusion of another dataset. Even though the original chart has the same dip, the dip didn’t stand out to me initially; I think it was due to lack of clarity on my end as I was trying to decipher the red and blue lines, and their values. Since this dataset looks at two variables over time, I didn’t think I could or should get too creative in selecting a new chart; following this, I decided on the use of a bar and line chart. I thought that the contrast between the bars and the line would do enough to more clearly differentiate the two variables (perceptibility from Few’s method). Additionally, while drafting out my sketch, I thought a lot about 1) the power of grey, and 2) making sure your message can be conveyed in black and white before adding color (both covered in Good Charts). I paid attention to alignment and tried to make it visually pleasing and interesting (aesthetic from Few’s method) while keeping its simplicity. Lastly, the inclusion of twenty-fives years worth of data seemed overkill, leading me to trim the years down to 2011-2020. After I completed my draft I solicited feedback from two different people and compiled their notes below.
 
+<img src="sketch.jpg" />
+
 ###### Feedback:
 
 <ul>

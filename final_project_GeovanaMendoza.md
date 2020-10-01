@@ -5,11 +5,10 @@ I want to convince my classmates that independently owned venues are in danger, 
 
 ###### Sketches + Outline continued
 
-[sketches]
-<img src="sketch 1.jpg" />
-<img src="sketch 2.jpg" />
-<img src="sketch 3.jpg" />
-<img src="sketch 4.jpg" />
+<img src="sketch_1.jpg" />
+<img src="sketch_2.jpg" />
+<img src="sketch_3.jpg" />
+<img src="sketch_4.jpg" />
 
 ###### Data Sources
 

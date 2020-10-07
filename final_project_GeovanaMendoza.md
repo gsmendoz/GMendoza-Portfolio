@@ -73,3 +73,4 @@ presentation of my topic.
 <img src="infogram.PNG" />
 <img src="roseland.jpg" />
 <img src="aid.PNG" />
+<img src="insights.PNG" />

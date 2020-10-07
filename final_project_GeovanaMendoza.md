@@ -62,7 +62,7 @@ presentation of my topic.
 ## Phase 2
 
 <img src="coveer.PNG" />
-<img src="crystal 2.JPG" />
+<img src="crystal 2.jpg" />
 <img src="before times 1.PNG" />
 <img src="before times 2.PNG" />
-<img src="doug fir.JPG" />
+<img src="doug fir.jpg" />

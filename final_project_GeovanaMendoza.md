@@ -63,11 +63,6 @@ presentation of my topic.
 
 <img src="coveer.PNG" />
 <img src="crystal 2.jpeg" />
-
 <img src="before times 1.PNG" />
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/3938495" data-url="https://flo.uri.sh/visualisation/3938495/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-<div class="flourish-embed flourish-chart" data-src="visualisation/3938495" data-url="https://flo.uri.sh/visualisation/3938495/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
 <img src="before times 2.PNG" />
 <img src="doug fir.jpeg" />

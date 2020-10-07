@@ -56,3 +56,8 @@ Additionally, I’ll be conducting a short interview with a staff member of a lo
 Shorthand will be my medium of choice for the final project, with a focus on Portland, Oregon, yet expanding to include national figures and references as it 
 is a nationwide issue. I’ll refer to other resources such as FontJoy.com and the Good Charts text to guide me in making a persuasive and refined virtual 
 presentation of my topic. 
+
+
+
+## Phase 2
+

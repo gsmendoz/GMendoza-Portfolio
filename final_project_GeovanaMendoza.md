@@ -70,9 +70,10 @@ presentation of my topic.
 <img src="before times 2.PNG" />
 <img src="doug fir.jpg" />
 
-<img src="CARES.PNG" />
 <img src="pandemic 1.PNG" />
 <img src="infogram.PNG" />
+<img src="CARES.PNG" />
+
 <img src="roseland.jpg" />
 <img src="aid.PNG" />
 <img src="insights.PNG" />

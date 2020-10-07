@@ -72,9 +72,11 @@ presentation of my topic.
 
 <img src="pandemic 1.PNG" />
 <img src="infogram.PNG" />
-<img src="CARES.PNG" />
+
 
 <img src="roseland.jpg" />
 <img src="aid.PNG" />
+<img src="CARES.PNG" />
+
 <img src="insights.PNG" />
 <img src="wonderballroom.jpeg" />

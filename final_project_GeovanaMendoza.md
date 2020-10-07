@@ -68,3 +68,5 @@ presentation of my topic.
 
 <img src="before times 2.PNG" />
 <img src="doug fir.jpg" />
+
+<img src="pandemic 1.PNG" />

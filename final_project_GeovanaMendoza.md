@@ -71,3 +71,4 @@ presentation of my topic.
 
 <img src="pandemic 1.PNG" />
 <img src="infogram.PNG" />
+<img src="roseland.jpg" />

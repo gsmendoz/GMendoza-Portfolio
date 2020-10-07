@@ -61,3 +61,6 @@ presentation of my topic.
 
 ## Phase 2
 
+<img src="coveer.PNG" />
+<img src="before times 1.PNG" />
+<img src="before times 2.PNG" />

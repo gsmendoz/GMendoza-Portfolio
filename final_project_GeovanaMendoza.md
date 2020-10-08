@@ -83,3 +83,45 @@ presentation of my topic.
 
 
 <img src="call.PNG" />
+
+
+###### User Research Protocol and Feedback
+
+User Research Protocol
+
+Who do I want to reach?
+I hope to reach anyone that misses going to non-arena-sized events. Anyone that’s looking forward to going to an event (be it music-based or not) once it’s established as safe enough to do so - where you’ll be surrounded by people that get excited over that same thing you’re excited about.
+
+User research population?
+I wanted to discuss my rough wireframes and visuals with individuals that are either 1) folks that I know for a fact miss live music, and 2) aren’t necessarily invested in that scene and may not even go to many concerts in general. 
+
+Interview Questions:
+What was the story you gathered while scrolling?
+
+I know it was a little haphazard, but were you still able to make sense of the flow of content? What kind of changes would you recommend?
+
+Is there anything you would change about the ordering of information?
+
+I know not all of my data visuals were included (several were in text) - aside from those points - what am I missing?
+
+I didn’t have a chance to include the info on the “insights” wireframe to illustrate why the aid listed above was insufficient - when I include this do you think it’ll help complete the story? If not - what else do you need to know?
+
+I plan on using a dark background for the shorthand page - to match the venue/show photos spread throughout the storyboard - do you think this matches the mood of the story?
+
+What colors -if any- would you like to see more of as part of the story?
+Anything else?
+
+Findings from interviews:
+Understood the story I was trying to deliver: “Live music is a much bigger source of revenue than I had imagined, so it’s really important that we save our stages - not just for the experience that is live music, but for the economy and state as a whole.” 
+
+However, I need to clarify the current status of associated employees within the industry: “a little unsure if community local business will be enough to save them - unsure if staff are still getting paid or unemployed.” I also need to provide more clarity on the final data visualizations that I provide - my use of some graph icons as placeholders was confusing since they weren’t really presenting anything - so I’ll need to be sure that no assumptions are made.
+Was able to understand the flow of the of the content: “I was able to make sense of the flow of the content.” and “the ordering made sense” as well as “I thought it was really clear.” - so no recommendation to re-arrange the delivery. 
+
+Regarding the incomplete frame for the “insights” section that will provide a first-hand account of why the conflict is ongoing: “I definitely think it will help the story when you include it because right now the aid that venues received seems like a lot.” Additionally, it’s requested that other info be shared such as number of venues permanently closed, and how long venues can expect to continue on while employing their staff? I’ll make sure to include a national total as I believe one of my sources has been keeping track of this; the second recommendation may be difficult to find but I’ll make a search for it. 
+
+Regarding the use of darker colors/a darker background seems to be fitting: “I think it fits - especially since the story is a bit bleak.” Also heard general feedback about just making sure that color don’t bleed into one another, and also positively received the bright neon colors some of my photos included - I’ll try to keep a close eye on incorporating this as I agree that it would be a great way to punch up the dark background while tying back to the photos. 
+
+Some input was provided regarding what else to include on the page - in terms of visuals: “Maybe some images of tech crews and people who work behind the scenes at the venues - it can show folks how many people are involved in producing a show.” And there was also appreciation for the inclusion of the venue photos: “It brings them to life and drums up a memory of an event. I’d add a photo of someone working for a more humanizing connection.” Given this feedback, I’ll expand my photo search to reflect the people behind and in front of the scenes as well - those that are being impacted by the story. 
+
+Extra feedback: “for text blocks - you should left-align to help users read long blocks of text more easily.” Another user indicated that they really felt that it is an issue that’s important to me - they only addition is that I include a specific resource on how to help the cause; this is something I’m sorely missing - so I certainly plan on wrapping up the project with a specific site/org that interested parties can visit. 
+

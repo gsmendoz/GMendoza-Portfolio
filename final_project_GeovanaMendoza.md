@@ -85,7 +85,7 @@ presentation of my topic.
 <img src="call.PNG" />
 
 
-###### User Research Protocol and Feedback
+###### User Research Protocol
 
 User Research Protocol
 
@@ -111,7 +111,7 @@ I plan on using a dark background for the shorthand page - to match the venue/sh
 What colors -if any- would you like to see more of as part of the story?
 Anything else?
 
-Findings from interviews:
+###### Findings from interviews:
 Understood the story I was trying to deliver: “Live music is a much bigger source of revenue than I had imagined, so it’s really important that we save our stages - not just for the experience that is live music, but for the economy and state as a whole.” 
 
 However, I need to clarify the current status of associated employees within the industry: “a little unsure if community local business will be enough to save them - unsure if staff are still getting paid or unemployed.” I also need to provide more clarity on the final data visualizations that I provide - my use of some graph icons as placeholders was confusing since they weren’t really presenting anything - so I’ll need to be sure that no assumptions are made.

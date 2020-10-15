@@ -136,3 +136,34 @@ Visually, I wanted to make it feel like you were going to go to a concert; so, y
 I learned that despite there being a vast amount of data on a general topic, it doesn't automatically mean that you'll be able to easily find data for a subset of that topic. At times it was easier to find data on Portland, the state of Oregon, or the country as a whole - but not a comprehensive set of data for only Portland, Oregon, or the U.S. I guess it proved to me that I was willing to put in the work, and I honestly just hope that the message is well-received and encourages audience members to show support for the things that they love in their community. 
 
 [Link to repository](https://gsmendoz.github.io/GMendoza-Portfolio/)
+
+Staff Report. "Pollstar Projects 2020 Total Box Office Would Have Hit $12.2 Billion." Pollstar. April 3, 2020. https://www.pollstar.com/article/pollstar-projects-2020-total-box-office-would-have-hit-122-billion-144197Default 
+
+"During Economic Highs and Lows, the Arts Are Key Segment of U.S. Economy." National Endowment for the Arts. March 17, 2020. https://www.arts.gov/about/news/2020/during-economic-highs-and-lows-arts-are-key-segment-us-economyDefault 
+
+Independent Venue Coalition of Oregon. Visited October 3, 2020. https://www.voicevenues.com/Default fontMusicPortland. March 16, 2020. https://musicportland.org/lost-incomeDefault 
+
+National Independent Venue Association. Visited October 4, 2020. https://www.saveourstages.comDefault fontOregon State Legislature. July 14, 2020. https://olis.leg.state.or.us/liz/2019I1/Downloads/CommitteeMeetingDocument/224701Default 
+
+Cline, Sara. "Tensions rise over Oregon's use of COVID-19 relief funds." Statesman Journal. https://www.statesmanjournal.com/story/news/politics/2020/08/20/tensions-rise-over-oregons-use-covid-19-relief-funds/5618708002/Default 
+
+World Population Review. Visited October 5, 2020. https://worldpopulationreview.com/us-cities/portland-or-populationDefault fontStock, Mark. "How Music Venues Have Been Affected By the Pandemic." The Manual. September 18, 2020. https://www.themanual.com/culture/music-venues-and-covid-pandemic/Default 
+
+Wang, Amy. "Without Federal Aid, More than 1,000 U.S. Music Venues Are in Danger of Closing." RollingStone. May 6, 2020. https://www.rollingstone.com/pro/news/independent-venues-danger-closing-covid-niva-995044/?fbclid=IwAR3kFEFDlH5XBQj-8SbLsrv0FXKbc3Hu_UoRvnPnajEIvapkT5H5uhzSYgoDefault 
+
+Images
+https://opbmusic.org/opbmusic/article/oregon-portland-live-music-venues-coronavirus-uncertain-future/Default 
+
+Photo by Abigail Lynn on Unsplash
+
+https://www.dougfirlounge.comDefault 
+
+Photo by Nick Moore on Unsplash  
+
+Photo by Nuno Alberto on Unsplash 
+
+Photo by Roman Pohorecki from Pexels
+
+Photo by Abigail Lynn on Unsplash
+
+[Save Oor Stages Image] (https://liveforlivemusic.com/news/senators-introduce-save-our-stages-act-niva/)

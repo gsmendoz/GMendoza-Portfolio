@@ -137,6 +137,7 @@ I learned that despite there being a vast amount of data on a general topic, it 
 
 [Link to repository](https://gsmendoz.github.io/GMendoza-Portfolio/)
 
+Sources
 Staff Report. "Pollstar Projects 2020 Total Box Office Would Have Hit $12.2 Billion." Pollstar. April 3, 2020. https://www.pollstar.com/article/pollstar-projects-2020-total-box-office-would-have-hit-122-billion-144197Default 
 
 "During Economic Highs and Lows, the Arts Are Key Segment of U.S. Economy." National Endowment for the Arts. March 17, 2020. https://www.arts.gov/about/news/2020/during-economic-highs-and-lows-arts-are-key-segment-us-economyDefault 
@@ -166,4 +167,4 @@ Photo by Roman Pohorecki from Pexels
 
 Photo by Abigail Lynn on Unsplash
 
-[Save Oor Stages Image] (https://liveforlivemusic.com/news/senators-introduce-save-our-stages-act-niva/)
+https://liveforlivemusic.com/news/senators-introduce-save-our-stages-act-niva/

@@ -8,11 +8,13 @@ My journey in Telling Stories with Data (it's a class if you didn't already know
   <ul>
    <li><a href="#about-me">About Me</a></li>
    <li><a href="#portfolio">Portfolio</a></li>
-   <li><a href="#data-viz-part-1">Data Viz Part 1</li>
-   <li><a href="#data-viz-part-2">Data Viz Part 2</li>
-   <li><a href="#data-viz-part-3">Data Viz Part 3</li>
+    <li><a href="#data-viz-part-1">Data Viz Part 1</a></li>
+    <li><a href="#data-viz-part-2">Data Viz Part 2</a></li>
+    <li><a href="#data-viz-part-3">Data Viz Part 3</a></li>
    <li><a href="#critique-by-design">Critique by Design</a></li>
-   <li><a href="#final-project">Final Project</a></li></ul></div>
+   <li><a href="#final-project">Final Project</a></li>
+  </ul>
+</div>
 
 <div id="about-me" />
 

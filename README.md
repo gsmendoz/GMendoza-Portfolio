@@ -12,9 +12,7 @@ My journey in Telling Stories with Data (it's a class if you didn't already know
    <li><a href="#data-viz-part-2">Data Viz Part 2</li>
    <li><a href="#data-viz-part-3">Data Viz Part 3</li>
    <li><a href="#critique-by-design">Critique by Design</a></li>
-   <li><a href="#final-project">Final Project</a></li>
-  </ul>
-</div>
+   <li><a href="#final-project">Final Project</a></li></ul></div>
 
 <div id="about-me" />
 

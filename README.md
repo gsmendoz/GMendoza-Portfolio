@@ -3,6 +3,7 @@ My journey in Telling Stories with Data (it's a class if you didn't already know
 
 [Save the link to my portfolio (if you want)](https://gsmendoz.github.io/GMendoza-Portfolio/)
 
+<div>
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#about-me">About Me</a></li>
@@ -17,6 +18,7 @@ My journey in Telling Stories with Data (it's a class if you didn't already know
   <li><a href="#critique-by-design">Critique by Design</a></li>
   <li><a href="#final-project">Final Project</a></li>
 </ul>
+  </div>
 
 <div id="about-me">
 

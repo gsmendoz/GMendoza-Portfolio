@@ -4,23 +4,19 @@ My journey in Telling Stories with Data (it's a class if you didn't already know
 [Save the link to my portfolio (if you want)](https://gsmendoz.github.io/GMendoza-Portfolio/)
 
 <div>
-<h2>Table of Contents</h2>
-<ul>
-  <li><a href="#about-me">About Me</a></li>
-  <li>
-    <a href="#portfolio">Portfolio</a>
-    <ul>
-      <li><a href="#data-viz-part-1">Data Viz Part 1</li>
-      <li><a href="#data-viz-part-2">Data Viz Part 2</li>
-      <li><a href="#data-viz-part-3">Data Viz Part 3</li>
-    </ul>
-  </li>
-  <li><a href="#critique-by-design">Critique by Design</a></li>
-  <li><a href="#final-project">Final Project</a></li>
-</ul>
+  <h2>Table of Contents</h2>
+  <ul>
+   <li><a href="#about-me">About Me</a></li>
+   <li><a href="#portfolio">Portfolio</a></li>
+   <li><a href="#data-viz-part-1">Data Viz Part 1</li>
+   <li><a href="#data-viz-part-2">Data Viz Part 2</li>
+   <li><a href="#data-viz-part-3">Data Viz Part 3</li>
+   <li><a href="#critique-by-design">Critique by Design</a></li>
+   <li><a href="#final-project">Final Project</a></li>
+  </ul>
   </div>
 
-<div id="about-me">
+<div id="about-me" />
 
 ## About Me
 Hi! Most folks call me Geo (she/her/hers), and I'm studying Public Policy & Management at Carnegie Mellon University. I decided to remain on the west coast for the time being, so I'm currently attending CMU remotely for the fall semester. Fingers crossed that spring semester is safer, and I'll be able to make the move over the Pittsburgh more comfortably. I am in the DC-track of my program, so my second year will take place at our nation's capital. 
@@ -37,21 +33,17 @@ Yes. But hopefully that'll improve over time.
 ## What are the 3 topics that I would crush in trivia?
 The Scream triology, Buffy the Vampire Slayer, and 90's r&b. 
 
-</div>
-
-<div id="portfolio">
+<div id="portfolio" />
 
 # Portfolio
 
-<div id="data-viz-part-1">
+<div id="data-viz-part-1" />
   
 ## Data Viz Part 1
 
 <iframe src="https://data.oecd.org/chart/65Ko" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/65Ko" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2010</a></iframe>
 
-</div>
-
-<div id="data-viz-part-2">
+<div id="data-viz-part-2" />
   
 ## Data Viz Part 2
 
@@ -59,9 +51,7 @@ Government Debt-to-Ratio visual from the OECD.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3759074" data-url="https://flo.uri.sh/visualisation/3759074/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-</div>
-
-<div id="data-viz-part-3">
+<div id="data-viz-part-3" />
   
 ## Data Viz 3
 
@@ -71,9 +61,7 @@ Due to the nature of having several small charts on the screen all at once, I kn
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3759286" data-url="https://flo.uri.sh/visualisation/3759286/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-</div>
-
-<div id="critique-by-design">
+<div id="critique-by-design" />
   
 ## Critique by Design
 
@@ -113,12 +101,8 @@ I decided to play with some colors that (at least in my mind) are connected to t
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3792464" data-url="https://flo.uri.sh/visualisation/3792464/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-</div>
-
-<div id="final-project">
+<div id="final-project" />
   
 ## Final Project
 
 [Save Our Stages](https://carnegiemellon.shorthandstories.com/save-our-stages/index.html)
-
-</div>
